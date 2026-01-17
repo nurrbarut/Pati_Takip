@@ -23,7 +23,7 @@
 ## 📱 Proje Hakkında
 
 **Pati Takip**, evcil hayvan sahiplerinin hayatını kolaylaştırmak için tasarlanmış modern bir mobil uygulamadır. Kullanıcılar evcil hayvanlarının aşılarını, randevularını takip edebilir ve Google Haritalar entegrasyonu sayesinde çevrelerindeki veterinerleri veya pet shopları kolayca bulabilirler.
-[![Watch the video](https://img.youtube.com/vi/d9p06Y0t614/maxresdefault.jpg)](https://youtu.be/d9p06Y0t614)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=d9p06Y0t614)
 
 ## ✨ Özellikler
 
